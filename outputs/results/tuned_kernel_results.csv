@@ -1,0 +1,5 @@
+Kernel,Best CV Accuracy,Best Params
+linear,0.6362525458248471,{'svm__C': 0.1}
+poly,0.6219959266802444,"{'svm__C': 1, 'svm__degree': 2, 'svm__gamma': 'auto'}"
+rbf,0.6366598778004073,"{'svm__C': 10, 'svm__gamma': 0.01}"
+sigmoid,0.629735234215886,"{'svm__C': 1, 'svm__gamma': 'auto'}"

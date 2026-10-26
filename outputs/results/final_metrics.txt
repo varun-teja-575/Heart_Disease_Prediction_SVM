@@ -1,0 +1,22 @@
+Best Kernel: rbf
+Best Parameters: {'svm__C': 10, 'svm__gamma': 0.01}
+Best CV Accuracy: 0.6367
+
+Accuracy: 0.6238
+Precision: 0.5220
+Recall: 0.3487
+F1 Score: 0.4181
+
+Classification Report:
+              precision    recall  f1-score   support
+
+  No Disease       0.66      0.80      0.72       376
+     Disease       0.52      0.35      0.42       238
+
+    accuracy                           0.62       614
+   macro avg       0.59      0.57      0.57       614
+weighted avg       0.61      0.62      0.60       614
+
+Confusion Matrix:
+[[300  76]
+ [155  83]]
